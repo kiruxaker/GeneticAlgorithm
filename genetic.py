@@ -108,3 +108,7 @@ if __name__ == '__main__':
     in_str = 'Kirill'
     in_str_len = len(in_str)
     ga()
+
+    asd
+    a
+    sdasdasdadsas
